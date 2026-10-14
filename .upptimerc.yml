@@ -18,11 +18,11 @@ sites:
 
 status-website:
   cname: status.readysettlepay.com
-  name: Ready Settle Pay Status
-  introTitle: "Ready Settle Pay system status"
-  introMessage: "Live status of the Ready Settle Pay app, offers and signing, bank linking, disbursements and notifications. Incidents and updates are posted here."
+  name: ReadySettlePay Status
+  introTitle: "ReadySettlePay system status"
+  introMessage: "Live status of the ReadySettlePay app, offers and signing, bank linking, disbursements and notifications. Incidents and updates are posted here."
   navbar:
     - title: Status
       href: /
-    - title: Ready Settle Pay
+    - title: ReadySettlePay
       href: https://readysettlepay.com
