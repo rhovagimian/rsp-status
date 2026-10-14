@@ -94,19 +94,19 @@
     "url": "https://readysettlepay-465gv7atsq-uc.a.run.app/health",
     "icon": "https://icons.duckduckgo.com/ip3/readysettlepay-465gv7atsq-uc.a.run.app.ico",
     "slug": "staging",
-    "status": "down",
-    "uptime": "99.50%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.50%",
-    "uptimeYear": "99.50%",
+    "status": "up",
+    "uptime": "85.18%",
+    "uptimeDay": "85.18%",
+    "uptimeWeek": "85.18%",
+    "uptimeMonth": "85.18%",
+    "uptimeYear": "85.18%",
     "time": 100,
     "timeDay": 100,
     "timeWeek": 100,
     "timeMonth": 100,
     "timeYear": 100,
     "dailyMinutesDown": {
-      "2026-10-14": 0
+      "2026-10-14": 4
     }
   }
 ]
