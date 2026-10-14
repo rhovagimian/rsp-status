@@ -12,9 +12,6 @@ sites:
     url: https://readysettlepay.com/health
   - name: Notifications
     url: https://readysettlepay.com/health
-  # Staging monitor for the readysettlepay#4031 forced-outage check only; remove once verified.
-  - name: Staging
-    url: https://readysettlepay-465gv7atsq-uc.a.run.app/health
 
 status-website:
   cname: status.readysettlepay.com
